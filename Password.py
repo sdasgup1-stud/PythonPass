@@ -15,6 +15,6 @@ class Password:
         else:
             print("No")    
 
-#pw = input("Passwort: ")
+
 #password = str.encode(pw) #Conversion string to bytes
 
