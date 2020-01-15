@@ -1,4 +1,5 @@
 #UnitTest
+#https://codereview.stackexchange.com/questions/208567/strong-password-detection
 import re
 import unittest
 
