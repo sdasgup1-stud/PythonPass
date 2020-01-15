@@ -2,6 +2,7 @@
 #https://codereview.stackexchange.com/questions/208567/strong-password-detection
 import re
 import unittest
+import Password
 
 PASSWORD_CHECKS = [
     re.compile(r'[A-Z]'),
